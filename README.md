@@ -17,4 +17,4 @@
 
 ## Ссылка на GitHub Pages
 
-[Ссылка на опубликованную версию](https://Elizaveta5456456.github.io/to-do/) 
+Ссылка на опубликованную версию - https://Elizaveta5456456.github.io/to-do/
